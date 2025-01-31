@@ -247,7 +247,7 @@
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
           >open source</span
         >, libertarian and
-        <span> kids-first</span>
+        <span> kids&#8209;first</span>
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
           >Adventure&nbsp;Playground</span
@@ -286,6 +286,14 @@
       </div>
     </div>
   </div>
+</div>
+
+<div class="flex justify-center mt-6">
+  <img
+    src="/images/playground.png"
+    alt="Playground"
+    class="max-w-full h-auto"
+  />
 </div>
 
 <!-- <div class="min-h-[60vh]">
