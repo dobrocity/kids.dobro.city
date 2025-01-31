@@ -17,7 +17,7 @@
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
         <a
-          href="https://github.com/dobrocity/dobro.city"
+          href="https://github.com/dobrocity/kids.dobro.city"
           class="border border-primary">★ us on Github</a
         >
       </li>
@@ -68,7 +68,7 @@
         <li><a href="/search">Search</a></li>
         <li>
           <a
-            href="https://github.com/dobrocity/dobro.city"
+            href="https://github.com/dobrocity/kids.dobro.city"
             class="border border-primary">★ us on Github</a
           >
         </li>
@@ -96,7 +96,7 @@
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
       <a
         class="link link-hover my-1"
-        href="https://github.com/dobrocity/dobro.city">Github</a
+        href="https://github.com/dobrocity/kids.dobro.city">Github</a
       >
     </nav>
     <aside>
@@ -107,9 +107,7 @@
       >
         <div class="font-bold text-3xl mb-1">KIDS</div>
         <div class="font-medium mb-3">Check out our Stellar</div>
-        <div class="font-light">
-          Transparent and open source
-        </div>
+        <div class="font-light">Transparent and open source</div>
         <div class="link text-sm font-bold mt-2">Learn More</div>
       </a>
     </aside>

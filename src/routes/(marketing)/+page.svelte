@@ -275,7 +275,7 @@
         >
       </div>
       <div class="mt-6 md:mt-2">
-        <a href="https://github.com/dobrocity/dobro.city">
+        <a href="https://github.com/dobrocity/kids.dobro.city">
           <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
         </a>
         <a href="https://docs.dobro.city/ru">
