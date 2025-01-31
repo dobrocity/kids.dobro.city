@@ -287,12 +287,11 @@
     </div>
   </div>
 </div>
-
-<div class="flex justify-center mt-6">
+<div class="flex justify-center md:mt-2 mb-10">
   <img
     src="/images/playground.png"
     alt="Playground"
-    class="max-w-full h-auto"
+    class="max-w-full h-auto max-w-[480px]"
   />
 </div>
 
