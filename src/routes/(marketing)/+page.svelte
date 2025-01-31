@@ -235,7 +235,7 @@
       <div
         class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-3 md:mb-7 pb-1"
       >
-        DoBro City
+        Kids Playground
       </div>
 
       <div
@@ -247,10 +247,10 @@
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
           >open source</span
         >, libertarian and
-        <span> blockchain-first</span>
+        <span> kids-first</span>
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >Popup&nbsp;City</span
+          >Adventure&nbsp;Playground</span
         >
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
@@ -283,125 +283,6 @@
             >Read the Docs</button
           >
         </a>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="min-h-[60vh]">
-  <div class="pt-20 pb-8 px-7">
-    <div class="max-w-lg mx-auto text-center">
-      <div
-        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
-      >
-        Meet Our Team
-      </div>
-    </div>
-
-    <div
-      class="flex flex-wrap justify-center gap-8 mt-12 max-w-[1200px] mx-auto"
-    >
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/rinat.jpeg"
-            alt="Rinat Enikeev"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Rinat Enikeev</h2>
-          <p class="text-sm opacity-70">Product Lead</p>
-          <div class="card-actions">
-            <a
-              href="https://hey.xyz/u/enikeev"
-              class="link link-hover text-sm opacity-70">@enikeev</a
-            >
-          </div>
-        </div>
-      </div>
-
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/valerij.jpeg"
-            alt="Valeriy Utrosin"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Valeriy Utrosin</h2>
-          <p class="text-sm opacity-70">Finance Lead</p>
-        </div>
-      </div>
-
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/aleksei.jpeg"
-            alt="Aleksei Tkachuk"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Aleksei Tkachuk</h2>
-          <p class="text-sm opacity-70">Acquisition Lead</p>
-        </div>
-      </div>
-
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/soz.jpeg"
-            alt="Soz Nov"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Soz Nov</h2>
-          <p class="text-sm opacity-70">Chain Lead</p>
-        </div>
-      </div>
-
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/mi.jpeg"
-            alt="Mi San"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Mi San</h2>
-          <p class="text-sm opacity-70">Event Lead</p>
-        </div>
-      </div>
-
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/victor.jpeg"
-            alt="Victor Korb"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Victor Korb</h2>
-          <p class="text-sm opacity-70">Comms Lead</p>
-        </div>
-      </div>
-
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/dmitriy.jpeg"
-            alt="Dmitriy Sergeevich"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Dmitriy Sergeevich</h2>
-          <p class="text-sm opacity-70">Build Lead</p>
-        </div>
       </div>
     </div>
   </div>

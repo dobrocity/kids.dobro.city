@@ -5,10 +5,10 @@ export const GET: RequestHandler = async () => {
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
-SIGNING_KEY="GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR"
+SIGNING_KEY="GCMEI2TOKB2OM6XCOZGR4VLGXWCPQNVHSTI4MQCYHERDCXA265KBKIDS"
 
 ACCOUNTS=[
-"GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR",
+"GCMEI2TOKB2OM6XCOZGR4VLGXWCPQNVHSTI4MQCYHERDCXA265KBKIDS",
 ]
 
 VERSION="2.5.0"
@@ -19,47 +19,25 @@ email="rinat@dobro.city"
 keybase="programyzer"
 telegram="programyzer"
 
-[[PRINCIPALS]]
-name="Valeriy Utrosin"
-email="valeriy@dobro.city"
-keybase="poutru"
-telegram="poutru"
-
-[[PRINCIPALS]]
-name="Victor Korb"
-email="victor@dobro.city"
-keybase="KorbVV"
-telegram="KorbVV"
-
 [DOCUMENTATION]
-ORG_NAME="Dobro City"
-ORG_DBA="Dobro City"
-ORG_URL="https://dobro.city"
-ORG_LOGO="https://dobro.city/favicon.png"
-ORG_DESCRIPTION="The open source, libertarian and blockchain-first Popup City"
+ORG_NAME="Adventure Playground @DoBro Popup City"
+ORG_DBA="Adventure Playground @DoBro Popup City"
+ORG_URL="https://kids.dobro.city"
+ORG_LOGO="https://kids.dobro.city/favicon.png"
+ORG_DESCRIPTION="The Adventure Playground @DoBro Popup City is a place where kids can play and learn about the world."
 ORG_GITHUB="dobrocity"
 ORG_OFFICIAL_EMAIL="contact@dobro.city"
 ORG_SUPPORT_EMAIL="contact@dobro.city"
 
 [[CURRENCIES]]
-code="DOBRO"
-issuer="GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR"
+code="KIDS"
+issuer="GCMEI2TOKB2OM6XCOZGR4VLGXWCPQNVHSTI4MQCYHERDCXA265KBKIDS"
 status="live"
 display_decimals=0
 is_asset_anchored=false
-name="DOBRO"
-desc="DOBRO is an organization token for the Dobro City"
-image="https://dobro.city/favicon.png"
-
-[[CURRENCIES]]
-code="KIND"
-issuer="GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR"
-status="live"
-display_decimals=0
-is_asset_anchored=false
-name="KIND"
-desc="Kind is a donation token for the Dobro City. [EN] Terms: https://docs.dobro.city/offers/kind. [RU] Условия: https://docs.dobro.city/ru/oferty/kind. "
-image="https://dobro.city/KIND.png"
+name="KIDS"
+desc="KIDS is a donation token for the Adventure Playground @DoBro Popup City"
+image="https://kids.dobro.city/favicon.png"
 `
 
   return new Response(content, {

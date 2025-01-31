@@ -21,7 +21,7 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
-      <li class="md:mx-2"><a href="/blog">Blog</a></li>
+      <!-- <li class="md:mx-2"><a href="/blog">Blog</a></li> -->
       <!-- <li class="md:mx-2"><a href="/pricing">Pricing</a></li> -->
       <!-- <li class="md:mx-2"><a href="/account">Account</a></li> -->
       <li class="md:mx-0">
@@ -62,7 +62,7 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
-        <li><a href="/blog">Blog</a></li>
+        <!-- <li><a href="/blog">Blog</a></li> -->
         <!-- <li><a href="/pricing">Pricing</a></li> -->
         <!-- <li><a href="/account">Account</a></li> -->
         <li><a href="/search">Search</a></li>
@@ -94,14 +94,6 @@
       <!-- <a class="link link-hover my-1" href="/pricing">Pricing</a> -->
       <!-- <a class="link link-hover my-1" href="/blog">Blog</a> -->
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
-      <a class="link link-hover my-1" href="https://mastodon.social/@dobro"
-        >Mastodon</a
-      >
-      <a
-        class="link link-hover my-1"
-        href="https://primal.net/p/npub1d3734dd5w3u20ufh7edlttmqkng5m6ka3qcx7cr3f49k6yzu9nuqvvhm5x"
-        >Primal</a
-      >
       <a
         class="link link-hover my-1"
         href="https://github.com/dobrocity/dobro.city">Github</a
@@ -111,12 +103,12 @@
       <span class="footer-title opacity-80">Stellar</span>
       <a
         class="max-w-[260px]"
-        href="https://stellar.expert/explorer/public/account/GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR"
+        href="https://stellar.expert/explorer/public/account/GCMEI2TOKB2OM6XCOZGR4VLGXWCPQNVHSTI4MQCYHERDCXA265KBKIDS"
       >
-        <div class="font-bold text-3xl mb-1">DOBR</div>
+        <div class="font-bold text-3xl mb-1">KIDS</div>
         <div class="font-medium mb-3">Check out our Stellar</div>
         <div class="font-light">
-          Transparent and open source cofounding process
+          Transparent and open source
         </div>
         <div class="link text-sm font-bold mt-2">Learn More</div>
       </a>
