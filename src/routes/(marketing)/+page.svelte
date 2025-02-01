@@ -239,7 +239,7 @@
       </div>
 
       <div
-        class="text-4xl md:text-6xl font-bold px-2"
+        class="text-3xl md:text-6xl font-bold px-2"
         style="line-height: 1.2;"
       >
         The
@@ -287,11 +287,11 @@
     </div>
   </div>
 </div>
-<div class="flex justify-center md:mt-2 mb-10">
+<div class="flex justify-center md:mt-2 mb-10 p-4">
   <img
     src="/images/playground.png"
     alt="Playground"
-    class="max-w-full h-auto max-w-[480px]"
+    class="max-w-full h-auto max-w-[480px] p-2"
   />
 </div>
 
