@@ -114,7 +114,7 @@
           >
         </li>
       </ul>
-      <p>Complete the form so join us! *</p>
+      <p>Complete the form to join! *</p>
       <p class="text-sm pt-8">
         *We will try to reach out to you as soon as possible. 😉
       </p>
