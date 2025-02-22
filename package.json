@@ -46,6 +46,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@google/model-viewer": "^4.0.0",
     "@supabase/auth-ui-svelte": "^0.2.9",
     "@supabase/ssr": "^0.5.2",
     "@supabase/supabase-js": "^2.45.2",

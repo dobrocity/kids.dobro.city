@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { onMount } from "svelte"
   import {
     WebsiteName,
     WebsiteBaseUrl,
@@ -220,6 +221,13 @@
   //       `,
   //     },
   //   ]
+
+  let isClient = false
+
+  onMount(async () => {
+    isClient = true
+    await import("@google/model-viewer") // Ensure it's only imported in the browser
+  })
 </script>
 
 <svelte:head>
@@ -287,13 +295,21 @@
     </div>
   </div>
 </div>
-<div class="flex justify-center md:mt-2 mb-10 p-4">
-  <img
-    src="/images/playground.png"
-    alt="Playground"
-    class="max-w-full h-auto max-w-[480px] p-2"
-  />
-</div>
+{#if isClient}
+  <div class="flex justify-center md:mt-2 mb-2 p-4">
+    <model-viewer
+      src="/models/bench.glb"
+      ios-src="/models/bench.usdz"
+      alt="3D Bench Model"
+      ar
+      ar-modes="webxr scene-viewer quick-look"
+      camera-controls
+      shadow-intensity="1"
+      auto-rotate
+      class="w-full max-w-[480px] h-[400px]"
+    ></model-viewer>
+  </div>
+{/if}
 
 <!-- <div class="min-h-[60vh]">
   <div class="pt-20 pb-8 px-7">
