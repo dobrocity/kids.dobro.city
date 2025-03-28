@@ -23,7 +23,7 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
-      <li class="md:mx-2"><a href="/sandbox">Sandbox</a></li>
+      <li class="md:mx-2"><a href="/climb">Climbing</a></li>
       <li class="md:mx-2"><a href="/trampoline">Trampoline</a></li>
       <!-- <li class="md:mx-2"><a href="/account">Account</a></li> -->
       <li class="md:mx-0">
@@ -64,7 +64,7 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
-        <li><a href="/sandbox">Sandbox</a></li>
+        <li><a href="/climb">Climbing</a></li>
         <li><a href="/trampoline">Trampoline</a></li>
         <!-- <li><a href="/account">Account</a></li> -->
         <li><a href="/search">Search</a></li>
